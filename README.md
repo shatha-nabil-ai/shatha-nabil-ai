@@ -1,9 +1,9 @@
 
 <div align="center">
 
-# 🖤 SHATHA NABIL
+#  SHATHA NABIL 🖤
 
-### 𖤐 ASPIRING AI ENGINEER
+###  ASPIRING AI ENGINEER 
 
 <samp>ARTIFICIAL INTELLIGENCE · SOFTWARE DEVELOPMENT</samp>
 
@@ -15,7 +15,7 @@
 
 ---
 
-### 🖤 `01 / ABOUT ME`
+###  01 / ABOUT ME`
 
 🎓 An Artificial Intelligence student passionate about technology, problem-solving, and continuous growth.
 
@@ -29,7 +29,7 @@
 
 ---
 
-### ⚡ `02 / CURRENT FOCUS`
+###  02 / CURRENT FOCUS`
 
 - 🐍 **Python** — Strengthening my programming fundamentals
 - 🧠 **Artificial Intelligence** — Exploring AI and Machine Learning
@@ -38,7 +38,7 @@
 
 ---
 
-### 💻 `03 / TECH STACK`
+###  03 / TECH STACK`
 
 <div align="center">
 
@@ -50,9 +50,9 @@
 
 ---
 
-### 🌌 `04 / MY MINDSET`
+###  04 / MY MINDSET`
 
-> 🖤 The best is yet to come.
+>  The best is yet to come 𖤐 !
 
 I believe in learning with purpose, building with patience, and improving with every step.
 
@@ -60,7 +60,7 @@ I believe in learning with purpose, building with patience, and improving with e
 
 ### ⚡ ONE STEP. ONE SKILL. ONE PROJECT AT A TIME. ⚡
 
-<samp>𖤐 BUILDING MY FUTURE, ONE LINE OF CODE AT A TIME.</samp>
+<samp> BUILDING MY FUTURE, ONE LINE OF CODE AT A TIME.</samp>
 
 <br>
 
