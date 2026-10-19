@@ -3,9 +3,7 @@
 
 #  SHATHA NABIL 🖤
 
-###  ASPIRING AI ENGINEER 
-
-<samp>ARTIFICIAL INTELLIGENCE · SOFTWARE DEVELOPMENT</samp>
+###  ASPIRING AI STUDENT
 
 *⌁ Turning curiosity into code.*
 
