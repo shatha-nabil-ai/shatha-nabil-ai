@@ -1,52 +1,69 @@
 
+<div align="center">
 
-<p align="center">
-  <samp>ARTIFICIAL INTELLIGENCE · SOFTWARE DEVELOPMENT</samp>
-</p>
+# 🖤 SHATHA NABIL
 
-<h1 align="center">SHATHA NABIL</h1>
+### 𖤐 ASPIRING AI ENGINEER
 
-<h3 align="center">Aspiring AI Engineer</h3>
+<samp>ARTIFICIAL INTELLIGENCE · SOFTWARE DEVELOPMENT</samp>
 
+*⌁ Turning curiosity into code.*
 
+**LEARN ⚡ BUILD ⚡ EVOLVE**
 
-
-<p align="center">
-  <em>Learning. Building. Evolving.</em>
-  <br>
-  <strong>The best is yet to come.</strong>
-</p>
+</div>
 
 ---
 
-### 🖤 About Me
+### 🖤 `01 / ABOUT ME`
+
+🎓 An Artificial Intelligence student passionate about technology, problem-solving, and continuous growth.
+
+🧠 Exploring the world of Artificial Intelligence and building my skills one step at a time.
 
 - 🎓 Artificial Intelligence Student
-- 🤖 Exploring Machine Learning and AI
-- 💻 Learning Python and Software Development
-- 🌱 Growing my skills one project at a time
-- 🎯 Working toward becoming an AI Engineer
+- 🤖 Interested in AI & Machine Learning
+- 💻 Learning programming through practice
+- 🧩 Developing my problem-solving skills
+- 🚀 Working toward becoming an AI Engineer
 
 ---
 
-### ⚡ My Current Focus
+### ⚡ `02 / CURRENT FOCUS`
 
-- Strengthening my programming fundamentals
-- Exploring Artificial Intelligence
-- Building projects and learning by doing
-
----
-
-<p align="center">
-  <i>Building my future, one line of code at a time.</i>
-</p>
+- 🐍 **Python** — Strengthening my programming fundamentals
+- 🧠 **Artificial Intelligence** — Exploring AI and Machine Learning
+- 🛠️ **Problem-Solving** — Improving my logical thinking
+- 🚀 **Projects** — Turning knowledge into practical experience
 
 ---
 
-### 🛠️ Technologies I'm Learning
+### 💻 `03 / TECH STACK`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-Exploring-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Git-Learning-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-Exploring-8B949E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+
+</div>
+
+---
+
+### 🌌 `04 / MY MINDSET`
+
+> 🖤 The best is yet to come.
+
+I believe in learning with purpose, building with patience, and improving with every step.
+
+<div align="center">
+
+### ⚡ ONE STEP. ONE SKILL. ONE PROJECT AT A TIME. ⚡
+
+<samp>𖤐 BUILDING MY FUTURE, ONE LINE OF CODE AT A TIME.</samp>
+
+<br>
+
+<sub>© Shatha Nabil · Always learning, always evolving. 🖤</sub>
+
+</div>
