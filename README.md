@@ -50,7 +50,7 @@
 
 ---
 
-###  04 / MY MINDSET`
+
 
 >  The best is yet to come 𖤐 !
 
@@ -58,7 +58,6 @@ I believe in learning with purpose, building with patience, and improving with e
 
 <div align="center">
 
-### ⚡ ONE STEP. ONE SKILL. ONE PROJECT AT A TIME. ⚡
 
 <samp> BUILDING MY FUTURE, ONE LINE OF CODE AT A TIME.</samp>
 
