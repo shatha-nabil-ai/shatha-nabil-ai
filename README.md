@@ -1,5 +1,13 @@
 
-<h1 align="center">Hi, I'm Shatha 👋</h1>
+
+<p align="center">
+  <samp>ARTIFICIAL INTELLIGENCE · SOFTWARE DEVELOPMENT</samp>
+</p>
+
+<h1 align="center">SHATHA NABIL</h1>
+
+<h3 align="center">Aspiring AI Engineer</h3>
+
 
 <h3 align="center">Aspiring AI Engineer</h3>
 
