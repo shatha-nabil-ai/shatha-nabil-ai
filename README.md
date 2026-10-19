@@ -1,7 +1,7 @@
 
 <div align="center">
 
-#  SHATHA NABIL 🖤
+#  SHATHA AL-AJAMI 🖤
 
 ###  ASPIRING AI STUDENT
 
