@@ -32,3 +32,13 @@
 <p align="center">
   <i>Building my future, one line of code at a time.</i>
 </p>
+
+---
+
+### 🛠️ Technologies I'm Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Exploring-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
