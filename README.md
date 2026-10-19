@@ -9,7 +9,7 @@
 <h3 align="center">Aspiring AI Engineer</h3>
 
 
-<h3 align="center">Aspiring AI Engineer</h3>
+
 
 <p align="center">
   <em>Learning. Building. Evolving.</em>
