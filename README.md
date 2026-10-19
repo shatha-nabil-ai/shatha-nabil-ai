@@ -5,8 +5,6 @@
 
 ###  ASPIRING AI STUDENT
 
-*⌁ Turning curiosity into code.*
-
 **LEARN ⚡ BUILD ⚡ EVOLVE**
 
 </div>
@@ -54,10 +52,6 @@
 
 I believe in learning with purpose, building with patience, and improving with every step.
 
-<div align="center">
-
-
-<samp> BUILDING MY FUTURE, ONE LINE OF CODE AT A TIME.</samp>
 
 <br>
 
